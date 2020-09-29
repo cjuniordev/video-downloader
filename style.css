@@ -1,0 +1,74 @@
+* { 
+    --color-bg-main: #11151C;
+    --color-bg-ipt: #794BC499;
+    --color-bg-btn: #794BC499;
+
+    --color-font-title: #523285;
+    --color-font-btn: black;
+
+    text-align: center;
+}
+
+body {
+    background-color: var(--color-bg-main);
+}
+
+.title {
+    font-family: Arial;
+    font-size: 3em;
+    margin-top: 30vh;
+    color: var(--color-font-title);
+}
+
+.URL-input, .convert-button {
+    margin-top: 10vh;
+    font-size: 1.3em;
+    padding: 5px 10px;
+}
+
+.URL-input {
+    border-radius: 4px 0px 0px 4px;
+    width: 30em;
+    text-align: left;
+    border: 2px solid var(--color-bg-ipt);
+    background: var(--color-bg-ipt);
+    outline: none;
+}
+
+.URL-input:focus {
+    border: 2px solid var(--color-bg-btn);
+}
+
+.convert-button {
+    border-radius: 0px 4px 4px 0px;
+    border: 2px solid var(--color-bg-btn);
+    background: var(--color-bg-btn);
+    color: var(--color-font-btn);
+}
+
+.load-wrapper {
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    min-height: 100vh;
+    transform: scale(5);
+}
+
+.hide {
+    display: none;
+}
+
+.loader {
+    animation: is-rotating 1s infinite;
+    border: 6px solid #e5e5e5;
+    border-radius: 50%;
+    border-top-color: #51d4db;
+    height: 50px;
+    width: 50px;
+}
+
+@keyframes is-rotating {
+    to {
+        transform: rotate(1turn);
+    }
+}
