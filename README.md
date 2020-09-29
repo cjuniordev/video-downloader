@@ -4,9 +4,6 @@
 
 ![Badge](https://img.shields.io/badge/<nodejs>-<v12.14.0>-<#51cf66>)
 ![Badge](https://img.shields.io/badge/<npm>-<v6.14.8>-<#5c940d>)
-![Badge](https://img.shields.io/badge/<express><#37b24d>)
-![Badge](https://img.shields.io/badge/<cors><#66cd00>)
-![Badge](https://img.shields.io/badge/<ytdl-core><#2b8a3e>)
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fcjuniordev)
 
 ### Features
