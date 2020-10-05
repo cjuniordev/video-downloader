@@ -2,8 +2,8 @@
 
 ## This project is an video downloader from youtube
 
-![Badge](https://img.shields.io/badge/<nodejs>-<v12.14.0>-<#51cf66>)
-![Badge](https://img.shields.io/badge/<npm>-<v6.14.8>-<#5c940d>)
+![Badge](https://img.shields.io/badge/nodejs-v12.14.0-<#51cf66>)
+![Badge](https://img.shields.io/badge/npm-v6.14.8-<#5c940d>)
 ![Twitter URL](https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fcjuniordev)
 
 ### Features
