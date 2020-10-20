@@ -24,7 +24,7 @@ Use the any text editor, my sugestion is [VSCode](https://code.visualstudio.com/
 
 ```bash
 # Clone this repository
-$ git clone <https://github.com/cjuniordev/video-downloader>
+$ git clone <https://github.com/cjuniordev/video-downloader.git>
 
 # Access the project folder
 $ cd video-downloader
